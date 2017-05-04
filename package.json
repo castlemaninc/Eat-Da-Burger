@@ -1,0 +1,20 @@
+{
+  "name": "eatdaburger",
+  "version": "1.0.0",
+  "description": "An app to list all of the hamburgers you want to eat",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/castlemaninc/Eat-Da-Burger.git"
+  },
+  "author": "Bryan Castleman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/castlemaninc/Eat-Da-Burger/issues"
+  },
+  "homepage": "https://github.com/castlemaninc/Eat-Da-Burger#readme"
+}
