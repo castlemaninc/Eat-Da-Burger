@@ -30,3 +30,11 @@ img {
 	float:right;
 }
 
+.uneaten {
+	margin-top:30px;	
+}
+
+#devour {
+	background-color: yellow;
+	color: black;
+}
